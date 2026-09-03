@@ -2,6 +2,8 @@
 
 Ember Burnout is an interactive, scenario-based tool designed to evaluate and categorize stages of occupational burnout. 
 
+**🔗 [Play the Live Demo Here](https://ember-burnout.netlify.app/)**
+
 ##  Visual Design & Hand-Drawn Assets
 A core focus of this project is the visual aesthetic. All character concepts, UI elements, and scenarios were illustrated entirely by hand.
 
